@@ -9,7 +9,7 @@ Analyzes 2823 rows of real enterprise sales data
 2. Predicts future sales with 88% accuracy using Random Forest
 3. Answers business questions in plain English using an LLM (Groq API)
 
-#Technologies used
+#Technologies used:
 Python 
 pandas and numpy (data cleaning and analysis)
 SQLite & SQL (database layer)
